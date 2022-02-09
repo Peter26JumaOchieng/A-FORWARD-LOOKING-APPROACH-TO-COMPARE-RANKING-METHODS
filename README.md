@@ -1,0 +1,2 @@
+# A-FORWARD-LOOKING-APPROACH-TO-COMPARE-RANKING-METHODS
+Given a rating vector of entities involved in the comparison, and a ranking indicated by the rating, the stability of the methods are measured by the change in rating vector and ranks of theentities over time from a forward-looking perspective.  We investigate various linearalgebraic rating methods and use the Euclidean distance and Kendall-tau rank cor-relation to measure their stability in rating and raking, respectively.  
